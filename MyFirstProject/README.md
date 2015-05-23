@@ -72,5 +72,5 @@ As you experiment and become more familiar with web development in Phase 2 the f
 * Add a picture to the page (play around with saving it as a smaller resolution in a Paint program or it will steal all your bandwidth)
 * Add some bootstrap containers or other elements (time to read bootstrap documentation! yay! (is that supposed to be fun? what is wrong with him...))
 * Add menu links to the right side container that send the user to a new page (now we're getting complicated...)
-* Add the menu and header items into templates so they can be shared across all the new pages (less repeated code makes engineers happy) (hmmmm maybe we need to schedule another study session) (which is totally not my evil plan) (muahahahahahaha) (why all the parens, they are really unnecessary)
+* Add the menu and header items into templates so they can be shared across all the new pages (less repeated code makes engineers happy)
 
