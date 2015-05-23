@@ -58,6 +58,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\MyFirstProject.pubxml" />
+    <Content Include="README.html">
+      <DependentUpon>README.md</DependentUpon>
+    </Content>
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
