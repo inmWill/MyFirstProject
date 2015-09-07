@@ -1,2 +1,2 @@
 # MyFirstProject
-Diana's first attempt to understand frontend coding.
+A first attempt to understand frontend coding.
